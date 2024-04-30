@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MingMing42hours
-- 👀 I’m interested in computational neuroscience, systems engineering, scientific computing, and philosophy of science and technology.
+- 👀 I’m interested in computational neuroscience, systems engineering, scientific computing, climate simulation, and philosophy of science and technology.
 - 🌱 I’m currently learning free energy principle, Bayesian formal epistemology, Markov blankets, persistent homology network analysis, agent-based models, and AGI safety.
 - 💞️ I’m looking to collaborate on science club and technical science careers adjacent to CS. In high school (as of 4/30/2024)
 - 📫 Reach me on Lesswrong and Discord.
