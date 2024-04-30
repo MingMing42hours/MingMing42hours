@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MingMing42hours
 - 👀 I’m interested in computational neuroscience, systems engineering, scientific computing, climate simulation, and philosophy of science and technology.
-- 🌱 I’m currently learning free energy principle, Bayesian formal epistemology, Markov blankets, persistent homology network analysis, agent-based models, and AGI safety.
-- 💞️ I’m looking to collaborate on science club and technical science careers adjacent to CS. In high school (as of 4/30/2024)
+- 🌱 I’m currently learning free energy principle, Bayesian formal epistemology, Markov blankets, persistent homology network analysis, agent-based models, and AGI safety. I am working on edX courses on CS and ML.
+- 💞️ I’m looking to collaborate on science club and technical science careers adjacent to CS. I am open to any business offers and game dev concepts.
 - 📫 Reach me on Lesswrong and Discord.
 - 😄 Pronouns: 42
 - ⚡ Fun facts about me: Carl Sagan and Richard Feynman inspires me. Met a computational neuroscientist studying neural correlates of consciousness at the Goethe-Institut.
