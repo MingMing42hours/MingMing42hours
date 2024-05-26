@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on science club and technical science careers adjacent to CS. I am open to any business offers and game dev concepts.
 - 📫 Reach me on Lesswrong and Discord.
 - 😄 Pronouns: 42
-- ⚡ Fun facts about me: Carl Sagan and Richard Feynman inspires me. Met a computational neuroscientist studying neural correlates of consciousness at the Goethe-Institut.
+- ⚡ Fun facts about me: Carl Sagan and Richard Feynman inspires me. Met a computational neuroscientist studying neural correlates of consciousness at the Goethe-Institut and delegate in the UN AI event.
 
 <!---
 MingMing42hours/MingMing42hours is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
